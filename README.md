@@ -16,7 +16,7 @@
 
 - 🎓 Sinh viên chuyên ngành **Hệ thống Thông tin** tại Đại học Thủy Lợi.
 - 💡 Đam mê xây dựng các nền tảng web/mobile hiện đại, hiệu năng cao và có sự hứng thú đặc biệt với Data Mining & Machine Learning.
-- 🎯 Mục tiêu hiện tại: Tốt nghiệp với bằng Xuất sắc và hoàn thiện các kiến thức về kiến trúc hệ thống, DevOps.
+- 🎯 Mục tiêu hiện tại: Tốt nghiệp với bằng Xuất sắc trường Đại học Thủy lợi và hoàn thiện các kiến thức về kiến trúc hệ thống, DevOps.
 
 ## 🛠 Kỹ Năng Kỹ Thuật
 
