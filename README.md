@@ -4,6 +4,7 @@
   ### 👨‍💻 Full-Stack Developer & Sinh Viên Hệ Thống Thông Tin
   
   <p align="center">
+    <a href="https://porfolio.gthanhtung-work.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
     <a href="https://www.facebook.com/thanh.tungg.638184/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
     <a href="mailto:gthanhtungg24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
